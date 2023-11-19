@@ -1,5 +1,8 @@
 # CCID: Chrono Chaos ID Generator
-ID generator family with varied sizes for different entities, addressing efficiency, storage, and security concerns
+
+![poster](./assets/chrono_chaos_id.min.png)
+
+Family of ID generators with varied sizes for different entities, addressing efficiency, storage, and security concerns
 
 * Lexicographically sortable, time stored as a BigEndian
 * Epoch based, continuously growing
