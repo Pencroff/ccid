@@ -165,5 +165,19 @@ Results values divided adjusted to milliseconds precision
 
 ## References
 
+* https://news.ycombinator.com/item?id=28088213
+* https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format
+* https://github.com/ai/nanoid
+* https://en.wikipedia.org/wiki/Binary-to-text_encoding
+* https://en.wikipedia.org/wiki/Lexicographic_order
+* https://github.com/ulid/spec
+* https://en.wikipedia.org/wiki/Birthday_attack
+* https://www.pcg-random.org/posts/birthday-test.html
+* https://github.com/anthonynsimon/timeflake
+* https://www.mongodb.com/docs/manual/reference/method/ObjectId/
+* https://github.com/segmentio/ksuid
+* https://github.com/paralleldrive/cuid
+* https://medium.com/@sjksingh/postgresql-primary-key-dilemma-uuid-vs-bigint-52008685b744
+* https://news.ycombinator.com/item?id=36429986
 * [The Art of Generating IDs](https://pencroff.com/post/the-art-of-generating-ids/)
 * [CCID Go lang](https://pencroff.com/post/ccid-go/)
