@@ -41,6 +41,10 @@ Optional compatibility:
 * 128 bit - UUID v8
 * 160 bit - KSUID
 
+## Implementation
+
+* [Go](https://github.com/Pencroff/ccid_go)
+
 ## Storage size
 
 | Size               | Hex (`4 bits`) | Base32 (`5 bits`) | Base62 (`5.8125 bits`) |  Binary, bytes   | UUID string |
@@ -159,4 +163,7 @@ Results values divided adjusted to milliseconds precision
 
 <sup>*</sup> Highlighted in bold fingerprint edge cases
 
+## References
 
+* [The Art of Generating IDs](https://pencroff.com/post/the-art-of-generating-ids/)
+* [CCID Go lang](https://pencroff.com/post/ccid-go/)
